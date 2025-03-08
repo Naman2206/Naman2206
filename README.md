@@ -1,4 +1,4 @@
-# "Turning ideas into reality, one commit at a time!"
+# Turning ideas into reality, one commit at a time!
 
 - Curious learner, problem solver, and tech enthusiast
 - Passionate about web development, data engineering, and cloud computing
